@@ -18,15 +18,3 @@
     "connect-redis": "~1.4.5"
   }
 }
-
-/*{"categories":[
-	{
-		"category":"Rock",
-	},
-	{
-		"category":"Jazz",
-	},
-	{
-		"category":"Blues",
-	},
-]}*/
